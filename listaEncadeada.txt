@@ -1,0 +1,4 @@
+Lista encadeada / Linked list
+
+- A lista encadeada possui, além do seu valor, um ponteiro apontando para o próximo elemento.
+- Podemos inserir elementos no início ou no fim.

@@ -1,0 +1,16 @@
+Fila -> Queue
+- O elemento que entra primeiro, sai primeiro (FiFo - First in / First out);
+- Sempre que um elemento entra na fila, ele vai ao final dela;
+- Sempre que removemos um elemento, o primeiro elemento é removido;
+
+enqueue() - Adiciona o elemento na fila
+dequeue() - Remove o elemento d fila
+clear() - Limpa a fila
+
+ESTRUTURA DA FILA
+	
+	fila[10]
+	head - Cabeça da fila. Indica quem é o primeiro elemento da fila.
+	tail - Calda da fila. Indica quantos elementos tem na fila.
+	
+APLICAÇÃO: em qualquer situação onde a gente tenha que organizar o atendimento de elementos.s
